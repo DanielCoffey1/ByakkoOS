@@ -45,7 +45,7 @@ This script automates the complete setup of my Arch Linux environment, including
 
 1. Download the script to your home directory:
 ```bash
-curl -O https://raw.githubusercontent.com/DanielCoffey1/ByakkoOS/main/arch-setup.sh
+curl -O https://raw.githubusercontent.com/DanielCoffey1/ByakkoOS/master/arch-setup.sh
 chmod +x arch-setup.sh
 ```
 
